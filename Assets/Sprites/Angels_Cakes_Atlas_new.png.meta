@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: fbafb39a5267e98cbb2e41955853d2d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4988669220167966146
+    second: Angels_Cakes_Atlas_new_0
+  - first:
+      213: 3039652419711461359
+    second: Angels_Cakes_Atlas_new_1
+  - first:
+      213: -3830285698566606641
+    second: Angels_Cakes_Atlas_new_2
+  - first:
+      213: 7007894087204191465
+    second: Angels_Cakes_Atlas_new_3
+  - first:
+      213: 5768646999486149802
+    second: Angels_Cakes_Atlas_new_4
+  - first:
+      213: -2352896354938262609
+    second: Angels_Cakes_Atlas_new_5
+  - first:
+      213: 4564481058293175180
+    second: Angels_Cakes_Atlas_new_6
+  - first:
+      213: -8264247911592182540
+    second: Angels_Cakes_Atlas_new_7
+  - first:
+      213: 3874526665436253411
+    second: Angels_Cakes_Atlas_new_8
+  - first:
+      213: 3692629147873359786
+    second: Angels_Cakes_Atlas_new_9
+  - first:
+      213: 2663736076746086227
+    second: Angels_Cakes_Atlas_new_10
+  - first:
+      213: -3395260924840735932
+    second: Angels_Cakes_Atlas_new_11
+  - first:
+      213: 4619143686407801650
+    second: Angels_Cakes_Atlas_new_12
+  - first:
+      213: 1623471402637773924
+    second: Angels_Cakes_Atlas_new_13
+  - first:
+      213: 5084488363621197506
+    second: Angels_Cakes_Atlas_new_14
+  - first:
+      213: -8442846512425579965
+    second: Angels_Cakes_Atlas_new_15
+  - first:
+      213: 4041682657001187716
+    second: Angels_Cakes_Atlas_new_16
+  - first:
+      213: 4673943478155739297
+    second: Angels_Cakes_Atlas_new_17
+  - first:
+      213: -25802702876882233
+    second: Angels_Cakes_Atlas_new_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1571
+        width: 563
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32a6fd76cfa4cab0800000000000000
+      internalID: -4988669220167966146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_1
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1894
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7ee8d55c30f2a20800000000000000
+      internalID: 3039652419711461359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_2
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1743
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0bdac637718dac0800000000000000
+      internalID: -3830285698566606641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_3
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1660
+        width: 92
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecbd5bfa8a014160800000000000000
+      internalID: 7007894087204191465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1664
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4bef6e1e95e0050800000000000000
+      internalID: 5768646999486149802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 706
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabe79a3b35d85fd0800000000000000
+      internalID: -2352896354938262609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_6
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 315
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83509fb65b485f30800000000000000
+      internalID: 4564481058293175180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_7
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 433
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcb8cd6f4e7f4d80800000000000000
+      internalID: -8264247911592182540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_8
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 431
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec4b1e597515c530800000000000000
+      internalID: 3874526665436253411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_9
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 431
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7be3645aade3330800000000000000
+      internalID: 3692629147873359786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_10
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 376
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357d7d549dd77f420800000000000000
+      internalID: 2663736076746086227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_11
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 338
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b8a1f7d2c91e0d0800000000000000
+      internalID: -3395260924840735932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_12
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 398
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b43d2a5be7a1040800000000000000
+      internalID: 4619143686407801650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_13
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 338
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cca31a3aab78610800000000000000
+      internalID: 1623471402637773924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_14
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 289
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6af3a5a3bbf8640800000000000000
+      internalID: 5084488363621197506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_15
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 282
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a4abd34dbf4da80800000000000000
+      internalID: -8442846512425579965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 82
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489a96976f0f61830800000000000000
+      internalID: 4041682657001187716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_17
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 87
+        width: 164
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a00abb64de2dd040800000000000000
+      internalID: 4673943478155739297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_new_18
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 61
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca47c4149454aff0800000000000000
+      internalID: -25802702876882233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
